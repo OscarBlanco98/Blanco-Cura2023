@@ -1,0 +1,79 @@
+.card{
+    background-color: #80D0F4;
+    border-radius: 20px;
+    width: 35%;
+    text-align: center;
+    top: 100px;
+    right: 10px;
+}
+.card h4{
+    text-decoration: underline;
+}
+.card img{
+    width: 250px;
+    height: 250px;
+}
+.card h1{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.card .type{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+.card .types{
+    background-color:white;
+    color: black;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 8px;
+}
+.abilities{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+.abilities .group{
+    background-color:white;
+    color: black;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 8px;
+}
+.base-stat{
+    width: 30%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1rem;
+}
+.base-stats{
+    background-color:white;
+    color: black;
+    padding: 10px;
+    font-size: 12px;
+    border-radius: 8px;
+}
+h3{
+    text-decoration: underline;
+}
+.btn-aleatorio{
+    background-color: #A8A8C0;
+    font-weight: bold;
+    color: black;
+    font-size: 1rem;
+    padding: 1rem 1.5rem;
+    border: 2px solid #eee;
+    border-radius: .5rem;
+    cursor: pointer;
+    transition: all 1s ease;
+    box-shadow: .5rem .5rem 1rem #ccc;
+}

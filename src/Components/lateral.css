@@ -1,0 +1,11 @@
+.contenedor-lateral{
+    border: solid 2px rgba(0, 0, 0, 0.255);
+    background-color: white;
+}
+.sumario{
+    text-align: center;
+    text-decoration: underline;
+}
+.ol-lateral,a{
+    color: blue;
+}

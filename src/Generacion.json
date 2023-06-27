@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Icon": "Images/Generacion/Primera.png"
+    },
+    {
+        "id": 2,
+        "Icon": "Images/Generacion/Segunda.png"
+    },
+    {
+        "id": 3,
+        "Icon": "Images/Generacion/Tercera.png"
+    },
+    {
+        "id": 4,
+        "Icon": "Images/Generacion/Cuarta.png"
+    },
+    {
+        "id": 5,
+        "Icon": "Images/Generacion/Quinta.png"
+    },
+    {
+        "id": 6,
+        "Icon": "Images/Generacion/Sexta.png"
+    },
+    {
+        "id": 7,
+        "Icon": "Images/Generacion/Septima.png"
+    },
+    {
+        "id": 8,
+        "Icon": "Images/Generacion/Octava.png"
+    },
+    {
+        "id": 9,
+        "Icon": "Images/Generacion/Novena.png"
+    }
+]

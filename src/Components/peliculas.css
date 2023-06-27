@@ -1,0 +1,16 @@
+.contenedor-peliculas{
+    margin: auto;
+    border: 2px solid #2C4196;
+    background: #445AB3;
+    line-height: 25px;
+    border-radius: 10px;
+    width: 1200px;
+    text-align: center;
+}
+.contenedor-peliculas-titulo{
+    background-color: white;
+}
+.contenedor-peliculas-enumeracion{
+    background-color: #CCCCFF;
+    text-align: center;
+}

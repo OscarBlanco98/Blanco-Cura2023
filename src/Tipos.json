@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "icon": "Images/Tipos/Acero.png",
+        "tipo": "Acero"
+    },
+    {
+        "id": 2,
+        "icon": "Images/Tipos/Agua.png",
+        "tipo": "Agua"
+    },
+    {
+        "id": 3,
+        "icon": "Images/Tipos/Bicho.png",
+        "tipo": "Bicho"
+    },
+    {
+        "id": 4,
+        "icon": "Images/Tipos/Dragon.png",
+        "tipo": "Dragon"
+    },
+    {
+        "id": 5,
+        "icon": "Images/Tipos/Electrico.png",
+        "tipo": "Electrico"
+    },
+    {
+        "id": 6,
+        "icon": "Images/Tipos/Fantasma.png",
+        "tipo": "Fantasma"
+    },
+    {
+        "id": 7,
+        "icon": "Images/Tipos/Fuego.png",
+        "tipo": "Fuego"
+    },
+    {
+        "id": 8,
+        "icon": "Images/Tipos/Hada.png",
+        "tipo": "Hada"
+    },
+    {
+        "id": 9,
+        "icon": "Images/Tipos/Hielo.png",
+        "tipo": "Hielo"
+    },
+    {
+        "id": 10,
+        "icon": "Images/Tipos/Lucha.png",
+        "tipo": "Lucha"
+    },
+    {
+        "id": 11,
+        "icon": "Images/Tipos/Normal.png",
+        "tipo": "Normal"
+    },
+    {
+        "id": 12,
+        "icon": "Images/Tipos/Planta.png",
+        "tipo": "Planta"
+    },
+    {
+        "id": 13,
+        "icon": "Images/Tipos/Psiquico.png",
+        "tipo": "Psiquico"
+    },
+    {
+        "id": 14,
+        "icon": "Images/Tipos/Roca.png",
+        "tipo": "Roca"
+    },
+    {
+        "id": 15,
+        "icon": "Images/Tipos/Siniestro.png",
+        "tipo": "Siniestro"
+    },
+    {
+        "id": 16,
+        "icon": "Images/Tipos/Tierra.png",
+        "tipo": "Tierra"
+    },
+    {
+        "id": 17,
+        "icon": "Images/Tipos/Veneno.png",
+        "tipo": "Veneno"
+    },
+    {
+        "id": 18,
+        "icon": "Images/Tipos/Volador.png",
+        "tipo": "Volador"
+    },
+    {
+        "id": 19,
+        "icon": "Images/Clase/Especial.gif",
+        "clase": "Especial"
+    },
+    {
+        "id": 20,
+        "icon": "Images/Clase/Estado.gif",
+        "clase": "Estado"
+    },
+    {
+        "id": 21,
+        "icon": "Images/Clase/Fisico.gif",
+        "clase": "Fisico"
+    },
+    {
+        "id": 22,
+        "icon": "Images/Concurso/Belleza.gif",
+        "concurso": "Belleza"
+    },
+    {
+        "id": 23,
+        "icon": "Images/Concurso/Carisma.gif",
+        "concurso": "Carisma"
+    },
+    {
+        "id": 24,
+        "icon": "Images/Concurso/Dulzura.gif",
+        "concurso": "Dulzura"
+    },
+    {
+        "id": 25,
+        "icon": "Images/Concurso/Dureza.gif",
+        "concurso": "Dureza"
+    },
+    {
+        "id": 26,
+        "icon": "Images/Concurso/Ingenio.gif",
+        "concurso": "Ingenio"
+    }
+]

@@ -1,0 +1,99 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.grid-layout{
+  display: grid;
+  height: 1500px;
+  grid-template-areas:'Cabecera Cabecera'
+                      'Menu Menu'
+                      'Contenido Lateral'
+                      'Footer Footer';
+  grid-template-columns: 80% 20% ;
+  grid-template-rows: 9% 2.5% auto auto;
+}
+.caja{
+  background-color: white;
+  border: 1px solid black;
+}
+.c1{
+  text-align: center;
+  text-decoration:underline;
+  grid-area: Cabecera;
+}
+.c2{
+  grid-area: Menu;
+  background-color: #a7a7a7;
+}
+.c3{
+  grid-area: Contenido;
+  background-color: #F0FFFF;
+}
+.c4{
+  grid-area: Lateral;
+  background-color: #F8D030;
+}
+.c5{
+  grid-area: Footer;
+  width: 100%;
+  background-size: cover;
+  background-color: #F0FFFF;
+}
+footer{
+  box-sizing: border-box;
+}
+footer .container-footer{
+  background-color: black;
+}
+.row{
+  display: flex;
+  justify-content: space-between;
+  padding: 40px 100px;
+}
+.footer-col ul{
+  list-style: none;
+}
+.footer-col h4{
+  color: white;
+  margin-bottom: 25px;
+  font-size: 22px;
+  position: relative;
+  font-family: 'Ubuntu', sans-serif;
+}
+.footer-col h4::before{
+  content: '';
+  width: 70px;
+  height: 2px;
+  position: absolute;
+  background-color: #F8D030;
+  bottom: -10px;
+}
+.footer-col ul li{
+  padding: 10px 0;
+}
+.footer-col ul li a{
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  opacity: 0.7;
+  transition: 0.5s;
+}
+.footer-col ul li a:hover{
+  opacity: 1;
+}
+.footer-col input{
+  border: none;
+  width: 200px;
+  height: 30px;
+  display: block;
+  padding-left: 20px;
+  margin: 14px 0;
+}
+.footer-col .inputSubmit{
+  padding: 0 20px;
+  width: 222px;
+  background-color: #F8D030;
+  border: none;
+  color: white;
+}
+

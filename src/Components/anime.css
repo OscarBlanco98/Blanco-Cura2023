@@ -1,0 +1,17 @@
+.contenedor-anime{
+    margin: auto;
+    border: 2px solid #2C4196;
+    background: #445AB3;
+    line-height: 25px;
+    border-radius: 10px;
+}
+.contenedor-anime-titulo{
+    background-color: white;
+}
+.contenedor-anime-serie{
+    color: white;
+}
+.contenedor-anime-episodios{
+    background-color: #CCCCFF;
+    text-align: center;
+}

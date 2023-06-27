@@ -1,0 +1,45 @@
+.menu ul {
+    background-color: #3899F8;
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu li {
+    text-align: center;
+    display: inline-block;
+}
+.menu a {
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.menu a:hover {
+    background-color: #333;
+    color: #fff;
+}
+.botones{
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    background-color: gray;
+    border: none;
+}
+.logout{
+    margin-right: 5px;
+    width: 100px;
+    height: 100%;
+    color: #fff;
+    background-color: #F8D030;
+    font-weight: 400;
+}
+.delete{
+    margin-right: 5px;
+    background-color: #3899F8;
+    width: 100px;
+    height: 100%;
+    color: white;
+    font-weight: 400;
+}
